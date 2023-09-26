@@ -1,5 +1,13 @@
-# Emilie Buckley
+---
+layout: default
+title: Emilie Buckley CV
+---
 
-## Librarian
+# Emilie Buckley, MLS, MMC
+## Faculty Librarian
+![Featured Image](assets/bodhi.jpg)
 
 ## Research Interests
+## Skills
+## Find Me Online
+- [LinkedIn](https://www.linkedin.com/in/emiliebuckley/)
