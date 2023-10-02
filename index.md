@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: minima
 title: Emilie Buckley CV
 ---
-![Featured Image](assets/websiteheader.png)
+![Featured Image](assets/websitebanner1.png)
 
 # Emilie Buckley, MLS, MMC
 ## Faculty Librarian, Valencia College
