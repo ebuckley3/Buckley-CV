@@ -1,5 +1,5 @@
 ---
-layout: minima
+layout: Minima
 title: Emilie Buckley CV
 ---
 ![Featured Image](assets/websitebanner1.png)
