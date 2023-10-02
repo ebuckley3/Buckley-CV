@@ -2,7 +2,7 @@
 layout: default
 title: Emilie Buckley CV
 ---
-![Featured Image](assets/websiteheade.png)
+![Featured Image](assets/websiteheader.png)
 
 # Emilie Buckley, MLS, MMC
 ## Faculty Librarian
