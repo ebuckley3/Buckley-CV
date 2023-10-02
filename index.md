@@ -13,20 +13,20 @@ I am a seasoned academic librarian with over ten years experience. I'm currenly 
 
 
 ### Research Interests
-*Media and culture studies
-*Queer studies
-*Game Studies
+* Media and culture studies
+* Queer studies
+* Game Studies
 
 ### Contact
-*Email: ebuckley3@valenciacollege.edu
-*Phone: (813)240-7773
-*Office Location: Lake Nona Campus 330G
+* Email: ebuckley3@valenciacollege.edu
+* Phone: (813)240-7773
+* Office Location: Lake Nona Campus 330G
 
 ### Skills
-*Academic research
-*Teaching
-*Digital art
-*Instructional design
+* Academic research
+* Teaching
+* Digital art
+* Instructional design
 
 ### Find Me Online
 * [LinkedIn](https://www.linkedin.com/in/emiliebuckley/)
