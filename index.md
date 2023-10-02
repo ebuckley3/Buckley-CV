@@ -18,7 +18,7 @@ I am a seasoned academic librarian with over ten years experience. I'm currenly 
 * Queer studies
 * Game Studies
 
-##Conference Presentations
+## Conference Presentations
 
 * Undercover Librarian: Experiencing Biology From the Student Perspective, Florida Association of College and Research Libraries, 2022
 
