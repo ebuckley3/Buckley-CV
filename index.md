@@ -5,6 +5,7 @@ title: Emilie Buckley CV
 
 # Emilie Buckley, MLS, MMC
 ## Faculty Librarian
+### Valencia College
 ![Featured Image](assets/bodhi.jpg)
 
 ## Research Interests
