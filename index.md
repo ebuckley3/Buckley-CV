@@ -18,6 +18,10 @@ I am a seasoned academic librarian with over ten years experience. I'm currenly 
 * Queer studies
 * Game Studies
 
+##Conference Presentations
+
+* Undercover Librarian: Experiencing Biology From the Student Perspective, Florida Association of College and Research Libraries, 2022
+
 ### Contact
 * Email: ebuckley3@valenciacollege.edu
 * Phone: (813)240-7773
