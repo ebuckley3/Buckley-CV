@@ -31,7 +31,8 @@ I am a seasoned academic librarian with over ten years experience. I'm currenly 
 ### Find Me Online
 * [LinkedIn](https://www.linkedin.com/in/emiliebuckley/)
 
-[![Linkedin Logo](https://ibb.co/bNtJf4W)](https://ibb.co/bNtJf4W)
+[![LinkedIn](https://ibb.co/bNtJf4W)](https://www.linkedin.com/in/emiliebuckley/)
+
 
 
 
