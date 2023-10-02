@@ -2,6 +2,7 @@
 layout: default
 title: Emilie Buckley CV
 ---
+![Featured Image](assets/
 
 # Emilie Buckley, MLS, MMC
 ## Faculty Librarian
