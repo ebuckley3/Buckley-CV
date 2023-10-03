@@ -4,15 +4,16 @@ title: Emilie Buckley CV
 ---
 ![Featured Image](assets/websiteheader.png)
 # Emilie Buckley, MLS, MMC
-### Contact
-* Email: ebuckley3@valenciacollege.edu
-* Phone: (813)240-7773
-* Office Location: Lake Nona Campus 330G
 
 ![Featured Image](assets/profile.png)
 
 ### About Me
 I am a seasoned academic librarian with over ten years experience. I'm currenly at Valencia College as a tenured faculty librarian as well as a new student experience and speech instructor. Past institutions I've worked at include the University of Central Florida and Hillsborough Community College. I'm currently a PhD student at the University of Central Florida in the Text and Technology program. My past educational experience includes a master of mass communication at South Dakota State University and a master of library science at Clarion University. In my free time I enjoy reading science journalism, crocheting, hiking, and trips to theme parks across Central Florida
+
+### Contact
+* Email: ebuckley3@valenciacollege.edu
+* Phone: (813)240-7773
+* Office Location: Valencia College Lake Nona Campus 330G
 
 ### Education
 * University of Central Florida  2023-Present
