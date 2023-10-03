@@ -18,7 +18,14 @@
   <h2>Faculty Librarian, Valencia College</h2>
 
   <img src="assets/profile.png" alt="Featured Image">
-
+  
+  <h3>Contact</h3>
+  <ul>
+    <li>Email: <a href="mailto:ebuckley3@valenciacollege.edu">ebuckley3@valenciacollege.edu</a></li>
+    <li>Phone: (813)240-7773</li>
+    <li>Office Location: Lake Nona Campus 330G</li>
+  </ul>
+  
   <h3>About Me</h3>
     I am a seasoned academic librarian with over ten years experience. I'm currently at Valencia College as a tenured faculty librarian as well as a new student experience and speech instructor. Past institutions I've worked at include the University of Central Florida and Hillsborough Community College. I'm currently a PhD student at the University of Central Florida in the Text and Technology program. My past educational experience includes a master of mass communication at South Dakota State University and a master of library science at Clarion University.
   </span>
@@ -55,13 +62,6 @@
     <li>AI in the Classroom, Valencia College Learning Day, 2022</li>
     <li>Teaching Open Education Resources Through Library Partnerships, Association of College and Research Libraries OER Conference, 2021</li>
     <li>Creating Wildlife Habitats, Valencia College Learning Day, 2020</li>
-  </ul>
-
-  <h3>Contact</h3>
-  <ul>
-    <li>Email: <a href="mailto:ebuckley3@valenciacollege.edu">ebuckley3@valenciacollege.edu</a></li>
-    <li>Phone: (813)240-7773</li>
-    <li>Office Location: Lake Nona Campus 330G</li>
   </ul>
 
   <h3>Skills</h3>
