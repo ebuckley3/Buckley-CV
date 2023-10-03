@@ -2,6 +2,13 @@
 <html>
 <head>
   <title>Emilie Buckley CV</title>
+  <style>
+    body {
+      background-color: black;
+      color: white;
+      font-family: Arial, sans-serif;
+    }
+  </style>
 </head>
 <body>
 
@@ -13,7 +20,7 @@
   <img src="assets/profile.png" alt="Featured Image">
 
   <h3>About Me</h3>
-  <span style="font-family: Arial; font-size: 24px;">
+  <span style="font-size: 24px;">
     I am a seasoned academic librarian with over ten years experience. I'm currently at Valencia College as a tenured faculty librarian as well as a new student experience and speech instructor. Past institutions I've worked at include the University of Central Florida and Hillsborough Community College. I'm currently a PhD student at the University of Central Florida in the Text and Technology program. My past educational experience includes a master of mass communication at South Dakota State University and a master of library science at Clarion University.
   </span>
 
@@ -46,7 +53,7 @@
 
   <h3>Find Me Online</h3>
   <ul>
-    <li><a href="https://www.linkedin.com/in/emiliebuckley/">LinkedIn</a></li>
+    <li><a href="https://www.linkedin.com/in/emiliebuckley/" style="color: white;">LinkedIn</a></li>
   </ul>
 
   <footer>
