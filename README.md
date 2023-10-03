@@ -90,7 +90,12 @@
   <ul>
     <li><a href="https://www.linkedin.com/in/emiliebuckley/" style="color: white;">LinkedIn</a></li>
   </ul>
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
   <footer>
     Created by Emilie Buckley, 2023
   </footer>
