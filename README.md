@@ -3,7 +3,7 @@
 <head>
   <title>Emilie Buckley CV</title>
   <style>
-    body 
+    body
       {background-color: black;
       color: white;
       font-family: Arial, sans-serif;}
@@ -11,24 +11,27 @@
 </head>
 <body>
 
-  <img src="assets/websiteheader.png" alt="Featured Image">
+  <img src="assets/websitebanner2.jpg" alt="Featured Image">
 
-  <h1>Emilie Buckley, MLS, MMC</h1>
-  <h2>Faculty Librarian, Valencia College</h2>
+<body>
+    <div class="centered">
+    <h1>Emilie Buckley, MLS, MMC</h1>
+    </div>
+</body>
 
-  <img src="assets/profile.png" alt="Featured Image">
-  
+  <img src="assets/profile.jpg" alt="Featured Image">
+ 
   <h3>Contact</h3>
   <ul>
     <li>Email: <a href="mailto:ebuckley3@valenciacollege.edu">ebuckley3@valenciacollege.edu</a></li>
     <li>Phone: (813)240-7773</li>
     <li>Office Location: Lake Nona Campus 330G</li>
   </ul>
-  
+ 
   <h3>About Me</h3>
-    I am a seasoned academic librarian with over ten years experience. I'm currently at Valencia College as a tenured faculty librarian as well as a new student experience and speech instructor. Past institutions I've worked at include the University of Central Florida and Hillsborough Community College. I'm currently a PhD student at the University of Central Florida in the Text and Technology program. My past educational experience includes a master of mass communication at South Dakota State University and a master of library science at Clarion University.
+    I'm a seasoned academic librarian with over ten years experience. I'm currently at Valencia College as a tenured faculty librarian as well as a new student experience and speech instructor. Past institutions I've worked at include the University of Central Florida and Hillsborough Community College. I'm currently a PhD student at the University of Central Florida in the Text and Technology program. My past educational experience includes a master of mass communication at South Dakota State University and a master of library science at Clarion University.
   </span>
-  
+ 
   <h3>Education</h3>
   <ul>
     <li>University of Central Florida, Text and Technology PhD, 2023-Present</li>
@@ -85,7 +88,7 @@
 
   <h3>Find Me Online</h3>
   <ul>
-    <li><a href="https://www.linkedin.com/in/emiliebuckley/" style="color: white;">LinkedIn</a></li>
+    <li><a href="https://www.linkedin.com/in/emiliebuckley/">LinkedIn</a></li>
   </ul>
 <br>
 <br>
