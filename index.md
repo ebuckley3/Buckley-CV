@@ -22,7 +22,7 @@ I am a seasoned academic librarian with over ten years experience. I'm currenly 
 *College of Dupage 2004-2006
   General Studies
 
-  ### Employment
+### Employment
 * Valencia College  2017-Present
   Tenured Faculty Librarian, Lake Nona Campus
 * University of Central Florida  2016-2017
