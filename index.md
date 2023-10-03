@@ -6,10 +6,24 @@
 
 ![Featured Image](assets/profile.jpg)
 
+<<<<<<< HEAD
 ## Contact
 - Email: [ebuckley3@valenciacollege.edu](mailto:ebuckley3@valenciacollege.edu)
 - Phone: (813) 240-7773
 - Office Location: Lake Nona Campus 330G
+=======
+### Education
+* University of Central Florida  2023-Present
+  Text and Technology PhD
+* South Dakota State University  2017-2022
+  Master of Mass Communication
+* Clarion University  2012-2013
+  Master of Library Science
+* Governors State University  2009-2011
+  Interdisciplinary Social Science
+* College of Dupage 2004-2006
+  General Studies
+>>>>>>> c9453e595f2b499b1eaf2fd88d11a64a0cd80b72
 
 ## About Me
 I'm a seasoned academic librarian with over ten years of experience. I'm currently at Valencia College as a tenured faculty librarian as well as a new student experience and speech instructor. Past institutions I've worked at include the University of Central Florida and Hillsborough Community College. I'm currently a PhD student at the University of Central Florida in the Text and Technology program. My past educational experience includes a master of mass communication at South Dakota State University and a master of library science at Clarion University.
