@@ -7,7 +7,6 @@
       {background-color: black;
       color: white;
       font-family: Arial, sans-serif;}
-
   </style>
 </head>
 <body>
