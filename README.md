@@ -82,7 +82,7 @@
 
   <h3>Awards</h3>
   <ul>
-    <li>Outstanding MMC Student, South Dakota State University, 2022</li>
+    <li>Outstanding Mass Media Communication Student, South Dakota State University, 2022</li>
     <li>Tenure, Valencia College, 2022</li>
   </ul>
 
