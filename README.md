@@ -59,7 +59,6 @@
     <li>Undercover Librarian: Experiencing Biology From the Student Perspective, Florida Association of College and Research Libraries, 2022</li>
     <li>AI in the Classroom, Valencia College Learning Day, 2022</li>
     <li>Teaching Open Education Resources Through Library Partnerships, Association of College and Research Libraries OER Conference, 2021</li>
-    <li>Creating Wildlife Habitats, Valencia College Learning Day, 2020</li>
   </ul>
 
   <h3>Skills</h3>
