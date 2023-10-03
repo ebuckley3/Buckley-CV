@@ -67,9 +67,23 @@
   <h3>Skills</h3>
   <ul>
     <li>Academic research</li>
-    <li>Teaching</li>
+    <li>Teaching, Student Success Skills, Speech</li>
     <li>Digital art</li>
     <li>Instructional design</li>
+    <li>Creative Thinking</li>
+  </ul>
+
+  <h3>Certifications</h3>
+  <ul>
+    <li>Open Education Resources Institute, Association of College and Research Universities, 2021</li>
+    <li>LGBTQ+ Safe Zone Training, Valencia College, 2020</li>
+    <li>Destinations, Creativity in the Classroom and Beyond, 2018</li>
+  </ul>
+
+  <h3>Awards</h3>
+  <ul>
+    <li>Outstanding MMC Student, South Dakota State University, 2022</li>
+    <li>Tenure, Valencia College, 2022</li>
   </ul>
 
   <h3>Find Me Online</h3>
