@@ -3,11 +3,11 @@
 <head>
   <title>Emilie Buckley CV</title>
   <style>
-    body {
-      background-color: black;
+    body 
+      {background-color: black;
       color: white;
-      font-family: Arial, sans-serif;
-    }
+      font-family: Arial, sans-serif;}
+
   </style>
 </head>
 <body>
