@@ -24,7 +24,7 @@ I'm a seasoned academic librarian with over ten years experience. Presently, I'm
   Master of Library Science
 * Governors State University  2009-2011
   Interdisciplinary Social Science
-*College of Dupage 2004-2006
+* College of Dupage 2004-2006
   General Studies
 
 ### Employment
