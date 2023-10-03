@@ -1,12 +1,6 @@
-theme: minima
-layouts_dir:_layouts
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+Title: Emilie Buckley CV
+Description: Emilie's CV
 
-# Teaching Experience
-
-## SLS 1122 New Student Expeience
-2017-Present
-* Students identify their career, academic and personal purpose. 
-
-## SPC 1608 Fundamentals of Speech
-2023-Present
-* Students learn the principles of oral communication common to speaking and listening.
